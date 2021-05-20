@@ -5,6 +5,8 @@
   }
 }
 
+
+
 .btn-round {
   border-radius: 30px;
 }
@@ -25,6 +27,11 @@ margin-left: 10%;
 margin-right: 20%;
 text-align: left;
 }
+.margl{
+margin-left:8%;}
+
+.margl-e{
+  margin-left:15%;}
 .mao{
     margin-top: 5%;
     
@@ -35,15 +42,23 @@ text-align: left;
 
 }
 .aws {
+
+
     background: white;
-    color:  dodgerblue;
-    min-width: 20px;
-    border-radius: 40px;
+    color: dodgerblue;
+
+    min-width: 50px;
+    height: 50px;
+    border-radius: 80%;
     text-align: center;
     display: inline-block;
+    line-height: 50px;
+
+    
  }
  
 .asas{
+  
   align-items: left;
   align-self: left;
   justify-content: left;
@@ -75,14 +90,25 @@ min-width: 100%;
     border-radius: 80%;
     text-align: center;
     display: inline-block;
+    line-height: 50px;
     /* padding: 3%; */
+    
 }
 .extrr{
   text-align: left;
+  padding-left: 2em;
 }
-.navbar-inner {
-  background-color:transparent;
-      background:transparent;
+.extrr p{ 
+  color: darkgray;
+  line-height: 1.75em;
+}
+.extrr_e p{ 
+  color: white;
+  line-height: 1.75em;
+  padding-left: 0.5em;
+  display: table-cell;
+  height: 50px;
+  vertical-align:middle;
+}
 
-}
 
