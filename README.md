@@ -6,7 +6,18 @@ The Holistic Approach
 
 LEARN MOREFuture Workplace Experience Design
 
+EMPLOYEE EXPERIENCE DESIGN
 
+HR has to move from a process-driven mindset to an experience focused mindset, that places the experience of the candidate, the employee and even the ex-employee in the focus.
+Employee experience is important, because it helps increase HR process efficiencies, generate a higher engagement and satisfaction. It also helps drive brand differentiation, customer service excellence, and growth. By using tools and methodologies that are already successfully used in user experience design, we facilitate the process of designing candidate, employee, and alumni experience.
+
+We help you
+
+design future fit employee experience
+
+design an end-to-end, recruitment-to-retirement experience
+
+align all employee experiences with your employer brand.
 Employer Branding and Employee Experience Design Lab
 The Holistic Approach
 
